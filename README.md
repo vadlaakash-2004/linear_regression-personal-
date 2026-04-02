@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 3.Run the prediction script:
 ```blash
-python src/predict_price.py
+python srcript/predict_price.py
 ```
 ##  1️ Project Structure
 
